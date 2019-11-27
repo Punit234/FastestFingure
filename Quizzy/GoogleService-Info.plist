@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>784970781241-sfm8b1kci40v3aoeaj2m5b6ka0e6vgeu.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.784970781241-sfm8b1kci40v3aoeaj2m5b6ka0e6vgeu</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQ18GobGfmU7HK3BNTln9-i7iHjLx_XXU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>784970781241</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ff.henry</string>
+	<key>PROJECT_ID</key>
+	<string>fastest-finger-cd94a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fastest-finger-cd94a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:784970781241:ios:a84b7f7e0cf8d1af6ef3e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://fastest-finger-cd94a.firebaseio.com</string>
+</dict>
+</plist>
